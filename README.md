@@ -19,7 +19,7 @@ I'm an IT technician from Lund, Sweden, with a passion for **IT support, network
 
 - 🔧 Experienced in **Windows Server, Active Directory, Linux systems**
 - 🌐 Network administration with **Cisco, TCP/IP, VLANs**
-- 💻 Proficient in **Python, PowerShell, Bash, JavaScript**
+- 💻 Proficient in **Python**
 - 🏠 Running a **home lab** with AD environment (DC, DNS, DHCP, GPO, 10+ VMs)
 - 📚 Currently seeking roles in **IT support, helpdesk, or network engineering** in Skåne
 
