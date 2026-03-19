@@ -206,7 +206,6 @@ I'm always interested in connecting with fellow IT professionals and discussing 
 | 📧 Email | [matinshahid3@gmail.com](mailto:matinshahid3@gmail.com) |
 | 💼 LinkedIn | [Matin Shahid](https://www.linkedin.com/in/matin-shahid-1b426a217/) |
 | 📍 Location | Lund, Sweden |
-| 📱 Phone | +46 73-971 57 44 |
 
 </div>
 
