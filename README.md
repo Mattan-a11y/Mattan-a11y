@@ -28,7 +28,7 @@ I'm an IT technician from Lund, Sweden, with a passion for **IT support, network
 ## 🛠️ Tech Stack
 
 ```text
-Languages:     Python |
+Languages:     Python
 Networking:    TCP/IP | DNS | DHCP | VLAN | Routing | Cisco IOS
 Systems:       Windows Server | Active Directory | Microsoft 365
 Tools:         Git | VMware | API Integration
