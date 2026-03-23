@@ -28,10 +28,10 @@ I'm an IT technician from Lund, Sweden, with a passion for **IT support, network
 ## 🛠️ Tech Stack
 
 ```text
-Languages:     Python | PowerShell | Bash | JavaScript | SQL
+Languages:     Python |
 Networking:    TCP/IP | DNS | DHCP | VLAN | Routing | Cisco IOS
-Systems:       Windows Server | Active Directory | Linux | Microsoft 365
-Tools:         Git | Docker | VMware | API Integration
+Systems:       Windows Server | Active Directory | Microsoft 365
+Tools:         Git | VMware | API Integration
 Automation:    Scripting | Task Automation | System Monitoring
 ```
 
@@ -129,7 +129,7 @@ Beautiful terminal weather application with global coverage - no API key require
 <td width="50%">
 
 #### [Cat Todo App](https://github.com/Mattan-a11y/Cat-Todo-App)
-😺 **JavaScript | Web | LocalStorage**
+😺 ** Web | LocalStorage**
 
 Fun and functional todo application with cat theme and local storage persistence.
 
@@ -186,7 +186,7 @@ I'm currently seeking opportunities in:
 
 - 🖥️ **IT Support / Help Desk** - First or second line support roles
 - 🌐 **Network Technician** - Network administration and troubleshooting
-- ⚙️ **System Administrator** - Windows/Linux server management
+- ⚙️ **System Administrator** - Windows/server management
 - 🔧 **Junior DevOps** - Automation and infrastructure roles
 
 **Location:** Skåne region, Sweden  
