@@ -29,6 +29,7 @@ IT technician based in Stockholm, Sweden. I work with Windows Server, Active Dir
 - IT internship at Inferno Online, Malmö — managed 200+ workstations, network admin, user support
 - Home lab: Active Directory environment with DC, DNS, DHCP, GPO, 10+ VMs
 - Computer & Network Technology, Thoren Innovation School
+- Computer Science, Kristianstad Högskola
 
 ---
 
