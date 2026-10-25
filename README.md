@@ -9,7 +9,7 @@ IT technician based in Stockholm, Sweden. I work with Windows Server, Active Dir
 
 ## Projects
 
-**[IT Home Lab — Windows Server & IT Support](https://github.com/Mattan-a11y/IT-Home-Lab)** — Documented Windows Server 2025 and Active Directory lab; expanding into a simulated helpdesk environment with tracked troubleshooting exercises (work in progress).
+**[IT Home Lab — Windows Server & IT Support](https://github.com/Mattan-a11y/IT-Home-Lab)** — My first-person portfolio of completed VMware, Windows Server 2025 and Active Directory lab work, including a documented troubleshooting case. Also covers earlier Windows 11, DNS and DHCP exercises.
 
 **[network-ping-sweep](https://github.com/Mattan-a11y/network-ping-sweep)** — Multithreaded ping sweep for quick host discovery. Pure Python, no dependencies.
 
