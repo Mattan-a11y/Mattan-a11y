@@ -9,6 +9,8 @@ IT technician based in Stockholm, Sweden. I work with Windows Server, Active Dir
 
 ## Projects
 
+**[IT Home Lab — Windows Server & IT Support](https://github.com/Mattan-a11y/IT-Home-Lab)** — Documented Windows Server 2025 and Active Directory lab; expanding into a simulated helpdesk environment with tracked troubleshooting exercises (work in progress).
+
 **[network-ping-sweep](https://github.com/Mattan-a11y/network-ping-sweep)** — Multithreaded ping sweep for quick host discovery. Pure Python, no dependencies.
 
 **[ad-user-info](https://github.com/Mattan-a11y/ad-user-info)** — PowerShell tool for querying and auditing Active Directory user accounts.
@@ -27,7 +29,7 @@ IT technician based in Stockholm, Sweden. I work with Windows Server, Active Dir
 
 - Cisco CCNAv7 (Intro to Networks)
 - IT internship at Inferno Online, Malmö — managed 200+ workstations, network admin, user support
-- Home lab: Active Directory environment with DC, DNS, DHCP, GPO, 10+ VMs
+- Home lab: documented Windows Server 2025 Domain Controller and Active Directory setup; additional client/DNS/DHCP/GPO troubleshooting labs in progress
 - Computer & Network Technology, Thoren Innovation School
 - Computer Science, Kristianstad Högskola
 
